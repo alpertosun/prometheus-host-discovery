@@ -33,4 +33,5 @@
         $ ./host-discovery -c config.yml -stderrthreshold=INFO
 
 
+TODO: labels will be added in file_sd_configs.
 
