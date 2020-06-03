@@ -1,0 +1,11 @@
+networks:
+  - network: "127.0.0.1/29"
+    labels:
+      asd: qwe
+  - network: "10.0.0.0/27"
+    labels:
+      q: 1
+concurrency: 11
+filesdpath: file-sd.json
+port: 9100
+timeout: 5
