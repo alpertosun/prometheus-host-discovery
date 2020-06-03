@@ -17,7 +17,7 @@
           - network: "127.0.0.1/29"
             labels:
               networkzone: public
-          - network: "10.220.1.51/27"
+          - network: "10.0.0.5/27"
             labels:
               any: label
         concurrency: 11
